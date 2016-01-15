@@ -4,8 +4,8 @@
 
 class HomebrewGitProxy < Formula
   homepage ""
-  url "https://github.com/joewstroman/homebrew-git-proxy/archive/homebrew/5.tar.gz"
-  version "5"
+  url "https://github.com/joewstroman/homebrew-git-proxy/archive/homebrew/6.tar.gz"
+  version "6"
   sha1 ""
 
   def install
